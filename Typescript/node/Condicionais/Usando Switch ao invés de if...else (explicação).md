@@ -27,3 +27,6 @@ problema? Bom, ao menos para mim, nesta situação ou semelhantes, um `switch` �
 Estude mais sobre o `switch` e casos onde ele pode ser aplicado. Considere utilizar IA de maneira estratégica para gerar exemplos de comparação. Uma recomendação é a utilização 
 do Phind, que se mostra ser uma IA mais eficiente para programadores. 
 
+# Versões do mesmo exemplo:
+
+Veja uma versão do mesmo exemplo, mas do lado do cliente (navegador).
