@@ -3,14 +3,7 @@
 Quando estamos criando uma aplicação, é como existirem condicionais. E, naturalmente, existem boas práticas ao utilizar-los. Um erro muito comum é utilizar apenas `if..else` ao 
 invés de `switch`, onde também funciona como uma condicional. 
 
-# Casos de uso do switch ao invés de if...else: 
-
-Não existe apenas um caso, existem vários. E por isso, este diretório será atualizado periodicamente com algumas novidades sempre que possível. Por agora, vamos começar com o 
-exemplo de número: 1.
-
-> Abra o arquivo de nome `exemplo_1.ts` para ver o exemplo em código da explicação abaixo: 
-
-## Passou de 3 condições, considere o switch: 
+# Passou de 3 condições, considere o switch: 
 
 Para novos estudantes que não viram ainda, `switch` também é uma condicional, entretanto, com uma estrutura diferente de um `if...else` que é mais simples. Switch é muito útil em 
 casos onde estamos verificando valores fixos/específicos. 
@@ -34,7 +27,3 @@ problema? Bom, ao menos para mim, nesta situação ou semelhantes, um `switch` �
 Estude mais sobre o `switch` e casos onde ele pode ser aplicado. Considere utilizar IA de maneira estratégica para gerar exemplos de comparação. Uma recomendação é a utilização 
 do Phind, que se mostra ser uma IA mais eficiente para programadores. 
 
-# AVISOS:
-
-Todo o conteúdo aqui, é com base em minhas experiências e conhecimentos. Em hipótese alguma isso é UMA REGRA DE MELHOR PRÁTICA, e sim o compartilhamento de minha experiência 
-sobre `clean-code`. Cabe a você decidir se este conhecimento é útil e gostaria de adotar no dia a dia ou não. Desde já agradeço a leitura até aqui, tenha um ótimo dia ☕
